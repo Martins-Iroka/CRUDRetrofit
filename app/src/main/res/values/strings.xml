@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CRUD Retrofit</string>
+    <string name="body">Body</string>
+    <string name="title">Title</string>
+    <string name="update_user">Update</string>
+    <string name="save_user">Save</string>
+</resources>
